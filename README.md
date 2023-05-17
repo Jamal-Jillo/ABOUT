@@ -11,4 +11,4 @@ Currently, a student at ALX - Software Engineering Bootcamp and Google's Data an
 
 <a href ="https://github.com/Jamal-Jillo/AirBnB_clone">AirBnB_Clone</a>
 # My Tech Stack !!
-<img src="https://skillicons.dev/icons?i=c,html,css,python,git&perline=5" alt="Tech Stack" /> 
+<img src="https://skillicons.dev/icons?i=c,html,css,python,javascript,git&perline=5" alt="Tech Stack" /> 
